@@ -12,4 +12,4 @@
   9. Nedávat na vše meh, pokud se vám nelíbí náš styl můžete jít jinam
 
 ## Ostatní
-  * jednou za čas zde máme ruletu, která náhodně někoho přesune na první pozoci ve frontě
+  * jednou za čas zde máme ruletu, která náhodně někoho přesune na první pozici ve frontě
