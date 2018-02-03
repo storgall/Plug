@@ -1,1 +1,12 @@
-# Plug
+# CZ/SK ♥♥ Magical/Army
+
+## Pravidla
+  1. Respektovat vyšši moc v chatu
+  2. Respektovat se navzájem v chatu
+  3. Zákaz urážek
+  4. Hudba nesmí přesáhnout délku 6 minut
+  5. Nespamovat
+  6. Žádné reklamy na jiné komunity
+  7. Udržovat dobrou náladu ^^
+  8. Nebýt AFK ve frontě (120 minut bez psaní)
+  9. Nedávat na vše meh, pokud se vám nelíbí náš styl můžete jít jinam
