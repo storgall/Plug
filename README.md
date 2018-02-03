@@ -10,3 +10,6 @@
   7. Udržovat dobrou náladu ^^
   8. Nebýt AFK ve frontě (120 minut bez psaní)
   9. Nedávat na vše meh, pokud se vám nelíbí náš styl můžete jít jinam
+
+## Ostatní
+  * jednou za čas zde máme ruletu, která náhodně někoho přesune na první pozoci ve frontě
