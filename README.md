@@ -10,6 +10,7 @@
   7. Udržovat dobrou náladu ^^
   8. Nebýt AFK ve frontě (120 minut bez psaní)
   9. Nedávat na vše meh, pokud se vám nelíbí náš styl můžete jít jinam
+  10. Pokud alespoň 35% komunity dá meh, bude skladba přeskočena
 
 ## Ostatní
   * jednou za čas zde máme ruletu, která náhodně někoho přesune na první pozici ve frontě
